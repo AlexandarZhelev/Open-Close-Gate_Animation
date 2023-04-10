@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg353"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="GateFinal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview355"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="48.158949"
+     inkscape:cy="266.06333"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs350" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e8e8e8;stroke-width:0.2;stroke-dasharray:none;stroke:none;stroke-opacity:1;fill-opacity:1"
+       id="rect476"
+       width="157.62393"
+       height="120.81355"
+       x="27.68644"
+       y="36.181145"
+       rx="0"
+       ry="2.3812499"
+       inkscape:label="Gate background" />
+    <rect
+       style="fill:#b9ecee;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5856"
+       width="77.352127"
+       height="112.34683"
+       x="29.365906"
+       y="43.158981"
+       ry="2.3812499"
+       rx="0"
+       inkscape:label="Left Door" />
+    <rect
+       style="display:inline;fill:#b9ebee;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6326"
+       width="75.470955"
+       height="112.62492"
+       x="108.06595"
+       y="43.325832"
+       ry="2.3812499"
+       rx="0"
+       inkscape:label="Right Door" />
+    <rect
+       style="fill:#bababa;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17390"
+       width="153.75536"
+       height="4.0044417"
+       x="29.336601"
+       y="38.042194"
+       ry="2.0022209"
+       rx="2.0022209"
+       inkscape:label="Mechanism" />
+    <circle
+       style="fill:#008000;stroke-width:0.7"
+       id="path343"
+       cx="107.91419"
+       cy="39.956566"
+       r="2.6742585"
+       inkscape:label="WarningLight" />
+  </g>
+</svg>
